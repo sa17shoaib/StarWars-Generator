@@ -1,5 +1,10 @@
 # StarWars-Generator
+
 This is a Star Wars character generator built using HTML, CSS and JavaScript. The web application has a simple interface wherein we have the application name, a basic welcome message, a picture and a button at the bottom. As soon as we click the button a random character information is displayed on the screen in the following format- a picture on the left and a bunch of information about the character on the right. We can press the button as many times as we want to display a character information.
+
+# Important Links
+
+API- https://akabab.github.io/starwars-api/api/all.json
 
 # Screenshots
 
